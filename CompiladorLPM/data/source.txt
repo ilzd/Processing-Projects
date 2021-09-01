@@ -1,0 +1,12 @@
+program teste;
+var
+  x:integer;
+  y:integer;
+Begin
+  read(x);
+  y = 0;
+  loop x;
+    y = y + 1;
+  end;
+  write(y);
+end;

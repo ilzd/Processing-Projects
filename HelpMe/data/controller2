@@ -1,0 +1,21 @@
+PlayStation Controller 2
+A	A Button	1	BUTTON	Button 14	0	0.0	0.0
+B	B Button	1	BUTTON	Button 13	0	0.0	0.0
+C	C Button	1	BUTTON	Button 15	0	0.0	0.0
+D	D Button	1	BUTTON	Button 12	0	0.0	0.0
+DOWN	Down Button	1	BUTTON	Button 6	0	0.0	0.0
+RIGHT	Right Button	1	BUTTON	Button 5	0	0.0	0.0
+LEFT	Left Button	1	BUTTON	Button 7	0	0.0	0.0
+UP	Up Button	1	BUTTON	Button 4	0	0.0	0.0
+R1	Right Upper Trigger	1	BUTTON	Button 11	0	0.0	0.0
+R2	RIght Bottom Trigger	1	BUTTON	Button 9	0	0.0	0.0
+R3	Right Analogic BUtton	1	BUTTON	Button 2	0	0.0	0.0
+L1	Left Upper Trigger	1	BUTTON	Button 10	0	0.0	0.0
+L2	Left Bottom Trigger	1	BUTTON	Button 8	0	0.0	0.0
+L3	Left Analogic Button	1	BUTTON	Button 1	0	0.0	0.0
+START	Start Button	1	BUTTON	Button 3	0	0.0	0.0
+SELECT	Select Button	1	BUTTON	Button 0	0	0.0	0.0
+RXDIR	Right Horizontal Slider	3	SLIDER	Z Rotation	0	1.0	0.0
+RYDIR	Right Vertical Slider	3	SLIDER	Z Axis	0	1.0	0.0
+LXDIR	Left Horizontal Slider	3	SLIDER	X Axis	0	1.0	0.0
+LYDIR	Left Vertical Slider	3	SLIDER	Y Axis	0	1.0	0.0

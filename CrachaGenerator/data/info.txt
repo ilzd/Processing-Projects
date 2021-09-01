@@ -1,0 +1,9 @@
+bgWidth=340
+bgHeight=453
+nameWidth=258
+nameHeight=26
+nameX=40
+nameY=170
+qrcodeSize=152
+qrcodeX=94
+qrcodeY=244
